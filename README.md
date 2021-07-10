@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KhmerLinux/KhmerLinux/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+នេះហើយគឺជាលើកទីមួយដែលខ្ញុំបានប្រើហ្គីតហឹប(github)ដើម្បីបង្ហាញភាសាខ្មែរនៅលើគេហទំព័រនេះ។
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
